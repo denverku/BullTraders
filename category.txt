@@ -1,3 +1,6 @@
+[normals]
+boxhead
+
 [prems]
 Item1
 Item2
